@@ -11,3 +11,4 @@ pingtaimeng.com
 tl80.cn
 wenyanet.com
 gingerdoc.com
+/^https?://([^\.]+)\.qiniu\.com/qfans/
