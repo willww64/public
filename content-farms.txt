@@ -12,3 +12,4 @@ tl80.cn
 wenyanet.com
 gingerdoc.com
 /^https?://([^\.]+)\.qiniu\.com/qfans/
+/^https?://cloud\.tencent\.com/developer/ask/sof//
