@@ -13,3 +13,4 @@ wenyanet.com
 gingerdoc.com
 /^https?://([^\.]+)\.qiniu\.com/qfans/
 /^https?://cloud\.tencent\.com/developer/(news|ask/sof)//
+/^https?://(m\.)?aliyun\.com/sswd//
